@@ -39,7 +39,7 @@ mcp-smart-agent/
 │
 ├── main.py                  # Entry point to start the server
 ├── requirements.txt         # Python dependencies
-└── README.md                # You're reading it!
+└── README.md                
 ```
 
 ---
